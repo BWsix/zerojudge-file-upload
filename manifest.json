@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "ero-judge",
+  "version": "0.1.0",
+  "description": "Adds a file upload button to zerojudge.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://zerojudge.tw/ShowProblem*"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ]
+}
