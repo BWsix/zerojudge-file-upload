@@ -1,4 +1,4 @@
-# erojudge
+# zerojudge-file-upload
 
 瀏覽器擴充套件，為zerojudge加入檔案上傳功能 
 
